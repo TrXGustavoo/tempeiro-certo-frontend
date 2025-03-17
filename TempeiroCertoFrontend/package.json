@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native": "^7.0.15",
+    "@react-navigation/stack": "^7.1.2",
     "react": "19.0.0",
-    "react-native": "0.78.0"
+    "react-native": "0.78.0",
+    "TempeiroCertoFrontend": "file:"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
